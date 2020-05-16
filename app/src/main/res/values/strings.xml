@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_hotels">Hotels</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_Restaurants">Restaurants</string>
+    <string name="category_theaters">Theaters</string>
+
+    <string name="hotel_1">SPOT ON 45024 Hotel Anand Inn</string>
+    <string name="hotel_location_1">Sahu Rd, Mahammadpur Kazi, Musahri, Muzaffarpur, Bihar 842001</string>
+
+    <string name="hotel_2">Hotel Rk Residency</string>
+    <string name="hotel_location_2">infront of railway station, Bihar 842001</string>
+
+    <string name="hotel_3">The Royal Phular</string>
+    <string name="hotel_location_3">Maripur Chowk, Maripur Main Rd, Muzaffarpur, Bihar 842001</string>
+
+    <string name="hotel_4">Hotel Minakshi International</string>
+    <string name="hotel_location_4">Station Road, Opp Junction Zilla Parishad Market, Muzaffarpur, Bihar 842001</string>
+
+    <string name="hotel_5">SPOT ON 48645 S S Guest House And Utsav Vivah Bhawan</string>
+    <string name="hotel_location_5">AP Tower, Bhagwanpur, Bihar 84200</string>
+
+
+    <string name="park_1">Muzaffarpur Park</string>
+    <string name="park_location_1">Company Bagh Rd, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001</string>
+
+    <string name="park_2">Bharat Mata Naman Sthal</string>
+    <string name="park_location_2">Juran Chhapra Main Rd, Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001</string>
+
+    <string name="park_3">Sahara Bharat Mata Park</string>
+    <string name="park_location_3">Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001</string>
+
+    <string name="park_4">Shahid Khudiram Bose Stupa</string>
+    <string name="park_location_4">Sutapatti, Pokhraira, Muzaffarpur, Bihar 842001</string>
+
+    <string name="park_5">Green Park Nursery</string>
+    <string name="park_location_5">Damodarpur, Muzaffarpur, Bihar 842001</string>
+
+
+    <string name="restaurants_1">Lazeez Restaurant</string>
+    <string name="restaurants_location_1">Yogendra Mukherjee Road, near North Bihar Chamber of Commerce, Muzaffarpur, Bihar 842001</string>
+
+    <string name="restaurants_2">Restaurant Simna Spice Garden</string>
+    <string name="restaurants_location_2">Power House Chowk, Maripur, Muzaffarpur, Bihar 842001</string>
+
+    <string name="restaurants_3">Kailash Tea Stall</string>
+    <string name="restaurants_location_3">Kedarnath Road, Kalyani, Musahri, Muzaffarpur, Bihar 842001</string>
+
+    <string name="restaurants_4">Milan Restaurant</string>
+    <string name="restaurants_location_4">Kalambagh Chowk, Muzaffarpur, Bihar 842001</string>
+
+    <string name="restaurants_5">Friends Family Restaurant and Banquet</string>
+    <string name="restaurants_location_5">University Road, Lenin Chowk, Muzaffarpur, Bihar 842001</string>
+
+
+    <string name="theater_1">Eylex Cinemas, Muzaffarpur</string>
+    <string name="theater_location_1">DRB Palace Mall, Motijheel Road, BB Collegiate Ln, Muzaffarpur, Bihar 842001</string>
+
+    <string name="theater_2">Fun Cinema Amar Jyoti</string>
+    <string name="theater_location_2">Amar Cinema Road, Hathi chowk, Kachhi Sarai, Muzaffarpur, Bihar 842002</string>
+
+    <string name="theater_3">7D Theater</string>
+    <string name="theater_location_3">Mahammadpur Kazi, Mithanpura, Muzaffarpur, Bihar 842002</string>
+
+    <string name="theater_4">Cinépolis Grand Mall</string>
+    <string name="theater_location_4">The Grand Mall, Mithanpura, Muzaffarpur, Bihar 842002</string>
+
+    <string name="theater_5">Shakuntala Hall</string>
+    <string name="theater_location_5">4, Jiya Lal Roy Rd, Muzaffarpur, Bihar 842001</string>
+</resources>
